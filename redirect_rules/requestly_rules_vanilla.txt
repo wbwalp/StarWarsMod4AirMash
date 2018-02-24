@@ -6,7 +6,7 @@
     "name": "redirect vanilla style",
     "pairs": [
       {
-        "destination": "https://molesmalo.github.io/StarWarsMod4AirMash/assets/engine-vanilla.js",
+        "destination": "https://github.com/wbwalp/StarWarsMod4AirMash/blob/master/assets/engine-vanilla.js",
         "source": {
           "key": "Url",
           "operator": "Wildcard_Matches",
